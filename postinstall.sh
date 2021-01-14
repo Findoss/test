@@ -1,1 +1,1 @@
-lodash strict modularize exports=es include=template -o ./dist/vendor/
+lodash strict modularize exports=es include=template -o ./vendor/
