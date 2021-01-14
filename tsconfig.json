@@ -12,7 +12,7 @@
     "esModuleInterop": true,
     "strictNullChecks": true,
     "newLine": "LF",
-    "moduleResolution": "classic"
+    "moduleResolution": "node"
   },
   "exclude": ["node_modules", "vendor"]
 }
